@@ -1,0 +1,17 @@
+{
+    "balance": 330,
+    "savingGoals": [],
+    "transactions": [
+        {
+            "amount": 400,
+            "isIncome": true,
+            "category": "Deposit"
+        },
+        {
+            "amount": 70,
+            "isIncome": false,
+            "category": "Withdrawn"
+        }
+    ],
+    "wage": 15
+}

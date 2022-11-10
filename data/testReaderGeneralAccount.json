@@ -1,0 +1,33 @@
+{
+  "balance": 2000,
+  "savingGoals": [
+    {
+      "moneySaved": 50,
+      "title": "Birthday",
+      "target": 200
+    },
+    {
+      "moneySaved": 0,
+      "title": "House",
+      "target": 4000
+    }
+  ],
+  "transactions": [
+    {
+      "amount": 2150,
+      "isIncome": true,
+      "category": "Deposit"
+    },
+    {
+      "amount": 100,
+      "isIncome": false,
+      "category": "Clothes"
+    },
+    {
+      "amount": 50,
+      "isIncome": false,
+      "category": "Deposit to saving goal"
+    }
+  ],
+  "wage": 15
+}

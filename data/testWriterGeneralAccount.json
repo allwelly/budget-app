@@ -1,0 +1,33 @@
+{
+    "balance": 140,
+    "savingGoals": [
+        {
+            "moneySaved": 50,
+            "title": "Retirement",
+            "target": 2000
+        },
+        {
+            "moneySaved": 0,
+            "title": "House",
+            "target": 400
+        }
+    ],
+    "transactions": [
+        {
+            "amount": 200,
+            "isIncome": true,
+            "category": "Deposit"
+        },
+        {
+            "amount": 10,
+            "isIncome": false,
+            "category": "Food"
+        },
+        {
+            "amount": 50,
+            "isIncome": false,
+            "category": "Deposit to saving goal"
+        }
+    ],
+    "wage": 15
+}
